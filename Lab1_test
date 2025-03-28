@@ -3,5 +3,8 @@ using namespace std;
 
 int main() {
    cout <<"hello world";
+   cout <<"i finaly finish this lab. Im so proud of me";
     return 0;
 }
+//встановленно розширення для роботи з с++
+//встановленно g++ (було тяжко але я змогла)
